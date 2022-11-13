@@ -1,5 +1,5 @@
 
-testi, siirttkö gitistä githubiin
+testi gitissä, muokkasin tässtä ekaa riviä
 kala
 mait
 mehu
