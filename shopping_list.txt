@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 terveisiä gitistä githubille, merge konflikti
+=======
+terveisiä githubista.
+>>>>>>> 6c55123aa1118868e53f8bb9363fc06ba79c770f
 kala
 mait
 mehu
