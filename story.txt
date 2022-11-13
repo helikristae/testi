@@ -1,6 +1,9 @@
 
+<<<<<<< Updated upstream
 muokkaus githubiss aklo 14:27
 
+=======
+>>>>>>> Stashed changes
 
 muokkaus
 
@@ -21,4 +24,4 @@ gf
 bg
 fb
 gf
-
+muokkaus gitis klo 1428
