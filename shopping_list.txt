@@ -3,4 +3,4 @@ testi gitissä, muokkasin tässtä ekaa riviä
 kala
 mait
 mehu
-juusto
+juusto muokkaus githubissa
